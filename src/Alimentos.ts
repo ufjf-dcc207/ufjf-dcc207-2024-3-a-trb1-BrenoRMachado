@@ -30,7 +30,7 @@ const ALIMENTOS: AlimentosTupleType[] = [
   [ham4, "SweetBurguer", "Pão, Nutella, pedaços de morango e açúcar sobre o pão.", 35.5],
   [
     ham5,
-    "Sushiburguer",
+    "SushiBurguer",
     "Arroz prensado, salmão,alga, cream cheese e wasabi",
     45.5,
   ],
@@ -42,7 +42,7 @@ const ALIMENTOS: AlimentosTupleType[] = [
   ],
   [
     ham7,
-    "X-gato",
+    "X-Cat",
     "Pão felino, bife felino, queijo, picles e muito miau.",
     25.9,
   ],
