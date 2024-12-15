@@ -23,9 +23,12 @@
   font-size: 23px;
   color: #331612;
   .nome {
+    margin-top: 40px;
     font-weight: bolder;
   }
   .descricao {
+    margin-top: 10px;
+    margin-bottom: 20px;
     font-size: 18px;
     text-align: center;
     width: 200px;
