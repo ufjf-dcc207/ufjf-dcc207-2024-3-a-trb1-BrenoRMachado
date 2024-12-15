@@ -16,7 +16,7 @@ export default function Alimentos({
         <div className="alimentos">
             <div className="nome">{nome}</div>
             <div className="descricao">{descricao}</div>
-            <div className="preco">{preco}</div>
+            <div className="preco">R$ {preco.toFixed(2)}</div>
         </div>
     );
 }   
