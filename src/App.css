@@ -1,7 +1,7 @@
 .app {
     /*fundo*/
     background-color: #e5b061; 
-    height: 1200px;
+    height: fit-content;
     padding-top: 0.5em;
     /*organização do conteúdo na tela*/
     display: flex;
@@ -25,4 +25,5 @@
     /*conteúdo*/
     flex-wrap: wrap;
     justify-content: space-evenly;
+    margin-bottom: 60px;
 }
