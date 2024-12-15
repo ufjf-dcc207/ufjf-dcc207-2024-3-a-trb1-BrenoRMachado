@@ -1,23 +1,28 @@
 .app {
-    background-color: #e5b061; /*colocar uma cor de fundo pro app*/
-    height: 1200px; /*faz o app preencher toda a página praticamente*/
-    padding-top: 0.5em; /*faz preencher o topo que faltava*/
-
-    display: flex; /*faz o display ser flexivel*/
-    align-items: center; /*deixa o conteúdo centralizado horizontalmente*/
-    flex-direction: column; /*deixa o conteúdo centralizado verticalmente*/
-
+    /*fundo*/
+    background-color: #e5b061; 
+    height: 1200px;
+    padding-top: 0.5em;
+    /*organização do conteúdo na tela*/
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /*tírulo*/
     h1 {
         font-size: 70px ; /*aumenta o tamanho do titulo*/
+        color: #ffffff;
     }
 }
 
 .menu{
-    border: 3px solid blue; /*bota borda ilustrativa pro menu*/
-    background-color: #f2e1c9; /*coloca uma cor de fundo pro menu*/
+    /*border: 3px solid blue;*/
+    /*fundo*/
+    background-color: #f2e1c9;
+    border-radius: 40px;
     display: flex; /*torna o display do menu flexível*/
     width: 95%; /*faz o menu pegar quase toda a largura da página*/
 
+    /*conteúdo*/
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
