@@ -1,0 +1,6 @@
+.app {
+    background-color: #e5b061; /*colocar uma cor de fundo pro app*/
+    height: 1200px; /*faz o app preencher toda a página praticamente*/
+    padding-top: 0.5em; /*faz preencher o topo que faltava*/
+
+}
