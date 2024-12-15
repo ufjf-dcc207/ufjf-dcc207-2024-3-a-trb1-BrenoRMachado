@@ -9,4 +9,4 @@ import ham8 from "./ham8.png";
 import ham9 from "./ham9.png";
 import ham10 from "./ham10.png";
 
-export {ham1, ham2, ham3, ham4, ham5, ham6, ham7, ham8, ham9, ham10}
+export { ham1, ham2, ham3, ham4, ham5, ham6, ham7, ham8, ham9, ham10 };

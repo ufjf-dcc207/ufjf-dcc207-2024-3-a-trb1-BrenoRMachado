@@ -1,29 +1,29 @@
 .app {
-    /*fundo*/
-    background-color: #e5b061; 
-    height: fit-content;
-    padding-top: 0.5em;
-    /*organização do conteúdo na tela*/
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    /*tírulo*/
-    h1 {
-        font-size: 70px ; /*aumenta o tamanho do titulo*/
-        color: #ffffff;
-    }
+  /*fundo*/
+  background-color: #e5b061;
+  height: fit-content;
+  padding-top: 0.5em;
+  /*organização do conteúdo na tela*/
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  /*tírulo*/
+  h1 {
+    font-size: 70px; /*aumenta o tamanho do titulo*/
+    color: #ffffff;
+  }
 }
 
-.menu{
-    /*border: 3px solid blue;*/
-    /*fundo*/
-    background-color: #f2e1c9;
-    border-radius: 40px;
-    display: flex; /*torna o display do menu flexível*/
-    width: 95%; /*faz o menu pegar quase toda a largura da página*/
+.menu {
+  /*border: 3px solid blue;*/
+  /*fundo*/
+  background-color: #f2e1c9;
+  border-radius: 40px;
+  display: flex; /*torna o display do menu flexível*/
+  width: 95%; /*faz o menu pegar quase toda a largura da página*/
 
-    /*conteúdo*/
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    margin-bottom: 60px;
+  /*conteúdo*/
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-bottom: 60px;
 }
