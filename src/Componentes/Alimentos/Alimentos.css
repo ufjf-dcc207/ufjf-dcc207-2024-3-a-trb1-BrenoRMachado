@@ -10,6 +10,9 @@
     /*posição das caixas*/
     margin-top: 90px;
     margin-bottom: 45px;
+
+    /*ajusta a imagem noa caixa*/
+    position: relative;
     
     /*texto posição*/
     display: flex;
@@ -30,6 +33,11 @@
     .preco{
         color: #b61f12;
         font-weight: bolder;
+    }
+    img{
+        height: 200px;
+        position: absolute;
+        top: -95px;
     }
     
 }
