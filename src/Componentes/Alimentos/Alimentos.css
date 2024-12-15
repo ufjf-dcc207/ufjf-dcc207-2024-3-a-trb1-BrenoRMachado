@@ -1,4 +1,10 @@
 .alimentos{
     border: 2px solid orangered; /*colcoca borda pra vizualizar a caixa dos alimentos*/
     width: 300px; /*conserta a largura das caixas* dos alimentos*/
+    
+    background-color: white;
+    color: #331612;
+    margin-top: 80px;
+    height: 200px;
+    
 }
