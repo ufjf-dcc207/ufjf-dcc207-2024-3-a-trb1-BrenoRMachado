@@ -19,9 +19,13 @@ function App() {
     />  
 ));
   return (
-    <div>
-      {comidas}
+    <div className='app'>
+      <h1>CARDÁPIO</h1>
+      <div className='menu'>
+        {comidas}
+      </div>
     </div>
+
   )
 }
 

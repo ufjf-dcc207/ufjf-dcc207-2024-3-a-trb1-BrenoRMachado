@@ -13,10 +13,10 @@ export default function Alimentos({
 
 }: AlimentosProps){
     return (
-        <div>
-            <div>{nome}</div>
-            <div>{descricao}</div>
-            <div>{preco}</div>
+        <div className="alimentos">
+            <div className="nome">{nome}</div>
+            <div className="descricao">{descricao}</div>
+            <div className="preco">{preco}</div>
         </div>
     );
 }   
