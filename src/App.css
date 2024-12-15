@@ -3,4 +3,11 @@
     height: 1200px; /*faz o app preencher toda a página praticamente*/
     padding-top: 0.5em; /*faz preencher o topo que faltava*/
 
+    display: flex; /*faz o display ser flexivel*/
+    align-items: center; /*deixa o conteúdo centralizado horizontalmente*/
+    flex-direction: column; /*deixa o conteúdo centralizado verticalmente*/
+
+    h1 {
+        font-size: 70px ;
+    }
 }
