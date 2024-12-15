@@ -17,4 +17,7 @@
     background-color: #f2e1c9; /*coloca uma cor de fundo pro menu*/
     display: flex; /*torna o display do menu flexível*/
     width: 95%; /*faz o menu pegar quase toda a largura da página*/
+
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
