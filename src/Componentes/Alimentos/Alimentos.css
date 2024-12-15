@@ -13,5 +13,16 @@
     justify-content: center;
     align-items: center;
     
+    .descricao{
+        text-align: center;
+        width: 200px;
+    }
+    .nome{
+        font-weight: bolder;
+    }
+    .preco{
+        color: #b61f12;
+        font-weight: bolder;
+    }
     
 }
