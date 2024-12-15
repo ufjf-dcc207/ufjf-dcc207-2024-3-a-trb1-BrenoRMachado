@@ -27,7 +27,7 @@ const ALIMENTOS: AlimentosTupleType[] = [
     "Pão, bife tamanho gg, queijo, alface, tomate e molho especial.",
     29.9,
   ],
-  [ham4, "SweetBurguer", "Pão, Nutella, pedaços de morango e açúcar.", 35.5],
+  [ham4, "SweetBurguer", "Pão, Nutella, pedaços de morango e açúcar sobre o pão.", 35.5],
   [
     ham5,
     "Sushiburguer",
