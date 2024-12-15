@@ -1,0 +1,4 @@
+.alimentos{
+    border: 2px solid orangered; /*colcoca borda pra vizualizar a caixa dos alimentos*/
+    width: 300px; /*conserta a largura das caixas* dos alimentos*/
+}

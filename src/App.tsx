@@ -8,6 +8,13 @@ const ALIMENTOS: AlimentosTupleType[] = [
     ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
     ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
     ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
+    ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
+    ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
+    ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
+    ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
+    ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
+    ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
+    ["Duble Onion Cheddar","Pão, dupla carne bovina, aneis de cebola, cheddar e bacon.",23.00],
 ];
 
 function App() {

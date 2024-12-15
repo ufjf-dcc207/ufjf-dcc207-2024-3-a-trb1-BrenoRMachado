@@ -8,6 +8,13 @@
     flex-direction: column; /*deixa o conteúdo centralizado verticalmente*/
 
     h1 {
-        font-size: 70px ;
+        font-size: 70px ; /*aumenta o tamanho do titulo*/
     }
+}
+
+.menu{
+    border: 3px solid blue; /*bota borda ilustrativa pro menu*/
+    background-color: #f2e1c9; /*coloca uma cor de fundo pro menu*/
+    display: flex; /*torna o display do menu flexível*/
+    width: 95%; /*faz o menu pegar quase toda a largura da página*/
 }
